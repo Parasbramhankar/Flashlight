@@ -2,7 +2,7 @@
  
  I have created flashlight by using HTML, CSS and JavaScript.
  
- Below are Snapshot of website.
+ Below are Snapshots of website.
  
  Initial:
 ![Flashlight and 2 more pages - Personal - Microsoft​ Edge 22-07-2021 12_30_23 (2)](https://user-images.githubusercontent.com/87379681/126638466-00e18c50-4cc6-48c8-8a39-b3da02d6befd.png)
